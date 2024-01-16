@@ -1,30 +1,9 @@
-# React + TypeScript + Vite
+# CodePath Challenge: Community Board
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+As a Technical Support Representative (TSR) at CodePath, you are tasked with helping students in the community with their technical issues and questions for the courses they are enrolled in.
 
-Currently, two official plugins are available:
+To help you understand the community's needs, TSRs are required to build the applications of each course they support. This is a great way to learn the material and empathize with the students.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Challenge
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+For this project, you will create an events or resources board for your community! Your board should have a unique purpose, such as displaying a list of scheduled games for a sports team or links to help users learn more about software engineering. On each card of your community board, you should display some information about the event or resource.
