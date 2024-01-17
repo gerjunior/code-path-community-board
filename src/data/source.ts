@@ -1,13 +1,13 @@
-import Jules80 from '../../public/jules-80.jpeg';
-import JulesEarth from '../../public/jules-earth.jpeg';
-import JulesIsland from '../../public/jules-island.jpeg';
-import Dracula from '../../public/dracula.jpg';
-import Frankenstein from '../../public/frankenstein.webp';
-import NineteenEightyFour from '../../public/1984.jpg';
-import Fahrenheit451 from '../../public/fahrenheit-451.jpg';
-import AnimalFarm from '../../public/animal-farm.jpeg';
-import IceAndFire from '../../public/ice-and-fire.jpg';
-import HarryPotter from '../../public/harry-potter.jpg';
+import Jules80 from '../../assets/jules-80.jpeg';
+import JulesEarth from '../../assets/jules-earth.jpeg';
+import JulesIsland from '../../assets/jules-island.jpeg';
+import Dracula from '../../assets/dracula.jpg';
+import Frankenstein from '../../assets/frankenstein.webp';
+import NineteenEightyFour from '../../assets/1984.jpg';
+import Fahrenheit451 from '../../assets/fahrenheit-451.jpg';
+import AnimalFarm from '../../assets/animal-farm.jpeg';
+import IceAndFire from '../../assets/ice-and-fire.jpg';
+import HarryPotter from '../../assets/harry-potter.jpg';
 
 export const data = [
   {
